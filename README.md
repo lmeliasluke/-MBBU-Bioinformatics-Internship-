@@ -7,4 +7,15 @@ I am a graduate of BSc in Biotechnology from Kenyatta University. The mechanism 
 
 The first step in understanding any genome is to sequence DNA or RNA depending on the type of organism- this will generate genomic data. Once data has been obtained, two more steps are important. DNA molecule has a language it uses to direct cellular activities, the second step therefore, is to learn the language of DNA- any three nucleotides constitute to 'words' that instructs cells to make proteins and proteins join together to make 'sentences' that direct complex structures. The next step is necessitated by the size of genomic data stored in cells. For instance, One human cell can carry up to three billion base pairs. Storing, analyzing and interpreting data of this size becomes an impossible task without the help of computers. Thus the third  step involves the use of computers to store, analyze and interpret biological data- this is how bioinformatics was borne. 
 
-Tons of Genomic data has been generated since late 1970s, but not much of this data has been converted to insightful information. However, many scientists around the globe have undertaken to develop cutting-edge computational tools that are useful in management of genomic data. My mission is to gain expertise in computational techniques applied in management of biological data, to understand programing languages and to understand big database management.
+Tons of Genomic data has been generated since late 1970s, but not much of this data has been converted to insightful information. However, many scientists around the globe have undertaken to develop cutting-edge computational tools that are useful in management of genomic data. I aspire to make use of this data to advance our understanding of life at molecular level. 
+
+
+# My Vision.
+
+•	To become an expert in using, managing and developing biological databases.To learn how to use and search major biological databases such National Center for Biotechnology Information (NCBI), European Molecular Biology Laboratory (EMBL), DNA Data Bank of Japan (DDBJ) and Swiss-Prot.
+
+•	To understand programming languages applicable in analyzing biological data currently: python and R-programming, 
+
+•	To gain in-depth knowledge in sequence alignment, to be familiar with tools used in DNA, RNA and protein sequence alignment.
+
+•	To obtain skills in gene and structural prediction.
