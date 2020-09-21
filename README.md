@@ -12,10 +12,46 @@ Tons of Genomic data has been generated since late 1970s, but not much of this d
 
 # My Vision.
 
-•	To become an expert in using, managing and developing biological databases.To learn how to use and search major biological databases such National Center for Biotechnology Information (NCBI), European Molecular Biology Laboratory (EMBL), DNA Data Bank of Japan (DDBJ) and Swiss-Prot.
+    •	To become an expert in using, managing and developing biological databases.To learn how to use and search major biological databases such National Center for Biotechnology Information (NCBI), European Molecular Biology Laboratory (EMBL), DNA Data Bank of Japan (DDBJ) and Swiss-Prot.
 
-•	To understand programming languages applicable in analyzing biological data currently: python and R-programming, 
+    •	To understand programming languages applicable in analyzing biological data currently: python and R-programming, 
 
-•	To gain in-depth knowledge in sequence alignment, to be familiar with tools used in DNA, RNA and protein sequence alignment.
+    •	To gain in-depth knowledge in sequence alignment, to be familiar with tools used in DNA, RNA and protein sequence alignment.
 
-•	To obtain skills in gene and structural prediction.
+    •	To obtain skills in gene and structural prediction.
+
+# ROADMAP
+
+This is an outline of my learning as I undertake this internship
+
+Learn Linux
+
+    •	The Unix shell
+
+    •	Introduction to HPC
+
+    •	Introduction to cloud computing
+
+Estimated Time: Two weeks
+
+
+Learn Programming Languages;
+
+    •	Python
+
+    •	R- programming
+
+Estimated Time: One Month
+
+Study biological databases;
+
+    •	sequence alignment
+
+    •	Phylogenetics
+
+Estimated Time: Two weeks
+
+
+Complete a mini Project
+
+Estimated Time: One month
