@@ -12,7 +12,8 @@ Tons of Genomic data has been generated since late 1970s, but not much of this d
 
 # My Vision.
 
-    •	To become an expert in using, managing and developing biological databases.To learn how to use and search major biological databases such National Center for Biotechnology Information (NCBI), European Molecular Biology Laboratory (EMBL), DNA Data Bank of Japan (DDBJ) and Swiss-Prot.
+    •	To become an expert in using, managing and developing biological databases.To learn how to use and search major biological databases such 
+    National Center for Biotechnology Information (NCBI), European Molecular Biology Laboratory (EMBL), DNA Data Bank of Japan (DDBJ) and Swiss-Prot.
 
     •	To understand programming languages applicable in analyzing biological data currently: python and R-programming, 
 
